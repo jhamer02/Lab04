@@ -14,6 +14,11 @@
 		E4A9335D1D1B8ED20031F563 /* Lab04.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E4A9335B1D1B8ED20031F563 /* Lab04.xcdatamodeld */; };
 		E4A9335F1D1B8ED20031F563 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4A9335E1D1B8ED20031F563 /* Assets.xcassets */; };
 		E4A933621D1B8ED20031F563 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4A933601D1B8ED20031F563 /* LaunchScreen.storyboard */; };
+		E4A9336D1D1B98570031F563 /* Intro.m in Sources */ = {isa = PBXBuildFile; fileRef = E4A9336C1D1B98570031F563 /* Intro.m */; };
+		E4A933701D1B99800031F563 /* Declarations.m in Sources */ = {isa = PBXBuildFile; fileRef = E4A9336F1D1B99800031F563 /* Declarations.m */; };
+		E4A933751D1BA4E40031F563 /* ligamx.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A933721D1BA4E40031F563 /* ligamx.png */; };
+		E4A933761D1BA4E40031F563 /* necaxa.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A933731D1BA4E40031F563 /* necaxa.png */; };
+		E4A933771D1BA4E40031F563 /* trofeo.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A933741D1BA4E40031F563 /* trofeo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +33,13 @@
 		E4A9335E1D1B8ED20031F563 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E4A933611D1B8ED20031F563 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E4A933631D1B8ED20031F563 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E4A9336B1D1B98570031F563 /* Intro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Intro.h; sourceTree = "<group>"; };
+		E4A9336C1D1B98570031F563 /* Intro.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Intro.m; sourceTree = "<group>"; };
+		E4A9336E1D1B99800031F563 /* Declarations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Declarations.h; sourceTree = "<group>"; };
+		E4A9336F1D1B99800031F563 /* Declarations.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Declarations.m; sourceTree = "<group>"; };
+		E4A933721D1BA4E40031F563 /* ligamx.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ligamx.png; sourceTree = "<group>"; };
+		E4A933731D1BA4E40031F563 /* necaxa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = necaxa.png; sourceTree = "<group>"; };
+		E4A933741D1BA4E40031F563 /* trofeo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = trofeo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +72,7 @@
 		E4A9334E1D1B8ED10031F563 /* Lab04 */ = {
 			isa = PBXGroup;
 			children = (
+				E4A933711D1BA4E40031F563 /* images */,
 				E4A9336A1D1B92B10031F563 /* Main */,
 				E4A933691D1B929E0031F563 /* Controllers */,
 				E4A933581D1B8ED10031F563 /* Main.storyboard */,
@@ -85,6 +98,8 @@
 			children = (
 				E4A933551D1B8ED10031F563 /* Start.h */,
 				E4A933561D1B8ED10031F563 /* Start.m */,
+				E4A9336B1D1B98570031F563 /* Intro.h */,
+				E4A9336C1D1B98570031F563 /* Intro.m */,
 			);
 			name = Controllers;
 			sourceTree = "<group>";
@@ -94,8 +109,20 @@
 			children = (
 				E4A933521D1B8ED10031F563 /* AppDelegate.h */,
 				E4A933531D1B8ED10031F563 /* AppDelegate.m */,
+				E4A9336E1D1B99800031F563 /* Declarations.h */,
+				E4A9336F1D1B99800031F563 /* Declarations.m */,
 			);
 			name = Main;
+			sourceTree = "<group>";
+		};
+		E4A933711D1BA4E40031F563 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				E4A933721D1BA4E40031F563 /* ligamx.png */,
+				E4A933731D1BA4E40031F563 /* necaxa.png */,
+				E4A933741D1BA4E40031F563 /* trofeo.png */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -157,8 +184,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4A933621D1B8ED20031F563 /* LaunchScreen.storyboard in Resources */,
+				E4A933761D1BA4E40031F563 /* necaxa.png in Resources */,
+				E4A933771D1BA4E40031F563 /* trofeo.png in Resources */,
 				E4A9335F1D1B8ED20031F563 /* Assets.xcassets in Resources */,
 				E4A9335A1D1B8ED10031F563 /* Main.storyboard in Resources */,
+				E4A933751D1BA4E40031F563 /* ligamx.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -169,7 +199,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4A9336D1D1B98570031F563 /* Intro.m in Sources */,
 				E4A933571D1B8ED10031F563 /* Start.m in Sources */,
+				E4A933701D1B99800031F563 /* Declarations.m in Sources */,
 				E4A9335D1D1B8ED20031F563 /* Lab04.xcdatamodeld in Sources */,
 				E4A933541D1B8ED10031F563 /* AppDelegate.m in Sources */,
 				E4A933511D1B8ED10031F563 /* main.m in Sources */,
