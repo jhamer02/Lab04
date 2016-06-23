@@ -35,6 +35,13 @@
     }
 }
 
+/**********************************************************************************************/
+#pragma mark - Actions methods
+/**********************************************************************************************/
+
+
 - (IBAction)btnIntroPressed:(id)sender {
+    Home *vc = [[UIStoryboard storyboardWithName:@"Main" bundle:nil] instantiateViewControllerWithIdentifier:@"Home"];
+    [self presentViewController:vc animated:YES completion:nil];
 }
 @end

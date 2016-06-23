@@ -19,6 +19,22 @@
 		E4A933751D1BA4E40031F563 /* ligamx.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A933721D1BA4E40031F563 /* ligamx.png */; };
 		E4A933761D1BA4E40031F563 /* necaxa.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A933731D1BA4E40031F563 /* necaxa.png */; };
 		E4A933771D1BA4E40031F563 /* trofeo.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A933741D1BA4E40031F563 /* trofeo.png */; };
+		E4A933871D1BAB2B0031F563 /* america.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A933781D1BAB2B0031F563 /* america.png */; };
+		E4A933881D1BAB2B0031F563 /* atlas.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A933791D1BAB2B0031F563 /* atlas.png */; };
+		E4A933891D1BAB2B0031F563 /* chiapas.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A9337A1D1BAB2B0031F563 /* chiapas.png */; };
+		E4A9338A1D1BAB2B0031F563 /* chivas.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A9337B1D1BAB2B0031F563 /* chivas.png */; };
+		E4A9338B1D1BAB2B0031F563 /* cruzazul.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A9337C1D1BAB2B0031F563 /* cruzazul.png */; };
+		E4A9338C1D1BAB2B0031F563 /* leon.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A9337D1D1BAB2B0031F563 /* leon.png */; };
+		E4A9338D1D1BAB2B0031F563 /* monarcas.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A9337E1D1BAB2B0031F563 /* monarcas.png */; };
+		E4A9338E1D1BAB2B0031F563 /* pachuca.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A9337F1D1BAB2B0031F563 /* pachuca.png */; };
+		E4A9338F1D1BAB2B0031F563 /* pumas.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A933801D1BAB2B0031F563 /* pumas.png */; };
+		E4A933901D1BAB2B0031F563 /* queretaro.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A933811D1BAB2B0031F563 /* queretaro.png */; };
+		E4A933911D1BAB2B0031F563 /* rayados.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A933821D1BAB2B0031F563 /* rayados.png */; };
+		E4A933921D1BAB2B0031F563 /* santos.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A933831D1BAB2B0031F563 /* santos.png */; };
+		E4A933931D1BAB2B0031F563 /* tigres.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A933841D1BAB2B0031F563 /* tigres.png */; };
+		E4A933941D1BAB2B0031F563 /* toluca.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A933851D1BAB2B0031F563 /* toluca.png */; };
+		E4A933951D1BAB2B0031F563 /* xolos.png in Resources */ = {isa = PBXBuildFile; fileRef = E4A933861D1BAB2B0031F563 /* xolos.png */; };
+		E4A933981D1BABF90031F563 /* Home.m in Sources */ = {isa = PBXBuildFile; fileRef = E4A933971D1BABF90031F563 /* Home.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +56,23 @@
 		E4A933721D1BA4E40031F563 /* ligamx.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ligamx.png; sourceTree = "<group>"; };
 		E4A933731D1BA4E40031F563 /* necaxa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = necaxa.png; sourceTree = "<group>"; };
 		E4A933741D1BA4E40031F563 /* trofeo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = trofeo.png; sourceTree = "<group>"; };
+		E4A933781D1BAB2B0031F563 /* america.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = america.png; sourceTree = "<group>"; };
+		E4A933791D1BAB2B0031F563 /* atlas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = atlas.png; sourceTree = "<group>"; };
+		E4A9337A1D1BAB2B0031F563 /* chiapas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chiapas.png; sourceTree = "<group>"; };
+		E4A9337B1D1BAB2B0031F563 /* chivas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chivas.png; sourceTree = "<group>"; };
+		E4A9337C1D1BAB2B0031F563 /* cruzazul.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cruzazul.png; sourceTree = "<group>"; };
+		E4A9337D1D1BAB2B0031F563 /* leon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = leon.png; sourceTree = "<group>"; };
+		E4A9337E1D1BAB2B0031F563 /* monarcas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monarcas.png; sourceTree = "<group>"; };
+		E4A9337F1D1BAB2B0031F563 /* pachuca.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pachuca.png; sourceTree = "<group>"; };
+		E4A933801D1BAB2B0031F563 /* pumas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pumas.png; sourceTree = "<group>"; };
+		E4A933811D1BAB2B0031F563 /* queretaro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = queretaro.png; sourceTree = "<group>"; };
+		E4A933821D1BAB2B0031F563 /* rayados.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rayados.png; sourceTree = "<group>"; };
+		E4A933831D1BAB2B0031F563 /* santos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = santos.png; sourceTree = "<group>"; };
+		E4A933841D1BAB2B0031F563 /* tigres.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tigres.png; sourceTree = "<group>"; };
+		E4A933851D1BAB2B0031F563 /* toluca.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toluca.png; sourceTree = "<group>"; };
+		E4A933861D1BAB2B0031F563 /* xolos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = xolos.png; sourceTree = "<group>"; };
+		E4A933961D1BABF90031F563 /* Home.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Home.h; sourceTree = "<group>"; };
+		E4A933971D1BABF90031F563 /* Home.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Home.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +133,8 @@
 				E4A933561D1B8ED10031F563 /* Start.m */,
 				E4A9336B1D1B98570031F563 /* Intro.h */,
 				E4A9336C1D1B98570031F563 /* Intro.m */,
+				E4A933961D1BABF90031F563 /* Home.h */,
+				E4A933971D1BABF90031F563 /* Home.m */,
 			);
 			name = Controllers;
 			sourceTree = "<group>";
@@ -118,6 +153,21 @@
 		E4A933711D1BA4E40031F563 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				E4A933781D1BAB2B0031F563 /* america.png */,
+				E4A933791D1BAB2B0031F563 /* atlas.png */,
+				E4A9337A1D1BAB2B0031F563 /* chiapas.png */,
+				E4A9337B1D1BAB2B0031F563 /* chivas.png */,
+				E4A9337C1D1BAB2B0031F563 /* cruzazul.png */,
+				E4A9337D1D1BAB2B0031F563 /* leon.png */,
+				E4A9337E1D1BAB2B0031F563 /* monarcas.png */,
+				E4A9337F1D1BAB2B0031F563 /* pachuca.png */,
+				E4A933801D1BAB2B0031F563 /* pumas.png */,
+				E4A933811D1BAB2B0031F563 /* queretaro.png */,
+				E4A933821D1BAB2B0031F563 /* rayados.png */,
+				E4A933831D1BAB2B0031F563 /* santos.png */,
+				E4A933841D1BAB2B0031F563 /* tigres.png */,
+				E4A933851D1BAB2B0031F563 /* toluca.png */,
+				E4A933861D1BAB2B0031F563 /* xolos.png */,
 				E4A933721D1BA4E40031F563 /* ligamx.png */,
 				E4A933731D1BA4E40031F563 /* necaxa.png */,
 				E4A933741D1BA4E40031F563 /* trofeo.png */,
@@ -183,12 +233,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4A933871D1BAB2B0031F563 /* america.png in Resources */,
+				E4A9338B1D1BAB2B0031F563 /* cruzazul.png in Resources */,
+				E4A9338D1D1BAB2B0031F563 /* monarcas.png in Resources */,
+				E4A933921D1BAB2B0031F563 /* santos.png in Resources */,
+				E4A933881D1BAB2B0031F563 /* atlas.png in Resources */,
+				E4A933941D1BAB2B0031F563 /* toluca.png in Resources */,
+				E4A933931D1BAB2B0031F563 /* tigres.png in Resources */,
 				E4A933621D1B8ED20031F563 /* LaunchScreen.storyboard in Resources */,
 				E4A933761D1BA4E40031F563 /* necaxa.png in Resources */,
+				E4A933911D1BAB2B0031F563 /* rayados.png in Resources */,
+				E4A9338C1D1BAB2B0031F563 /* leon.png in Resources */,
 				E4A933771D1BA4E40031F563 /* trofeo.png in Resources */,
+				E4A933901D1BAB2B0031F563 /* queretaro.png in Resources */,
 				E4A9335F1D1B8ED20031F563 /* Assets.xcassets in Resources */,
 				E4A9335A1D1B8ED10031F563 /* Main.storyboard in Resources */,
+				E4A933891D1BAB2B0031F563 /* chiapas.png in Resources */,
+				E4A9338E1D1BAB2B0031F563 /* pachuca.png in Resources */,
+				E4A933951D1BAB2B0031F563 /* xolos.png in Resources */,
 				E4A933751D1BA4E40031F563 /* ligamx.png in Resources */,
+				E4A9338F1D1BAB2B0031F563 /* pumas.png in Resources */,
+				E4A9338A1D1BAB2B0031F563 /* chivas.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -203,6 +268,7 @@
 				E4A933571D1B8ED10031F563 /* Start.m in Sources */,
 				E4A933701D1B99800031F563 /* Declarations.m in Sources */,
 				E4A9335D1D1B8ED20031F563 /* Lab04.xcdatamodeld in Sources */,
+				E4A933981D1BABF90031F563 /* Home.m in Sources */,
 				E4A933541D1B8ED10031F563 /* AppDelegate.m in Sources */,
 				E4A933511D1B8ED10031F563 /* main.m in Sources */,
 			);
